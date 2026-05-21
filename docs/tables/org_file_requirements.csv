@@ -1,4 +1,4 @@
-IATI Organisation File Element,Description,Field required?
+IATI Element,Description,Field required?
 `Organisation Identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`_,,Mandatory
 `Name <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/name/>`_,,Mandatory
 `Reporting organisation <https://iatistandard.org/en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_,,Mandatory
