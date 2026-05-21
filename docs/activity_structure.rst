@@ -16,3 +16,6 @@ publication should contain. Which of the models fits your situation best?
 3. **Partnerships** - designed for situations where your organisation works in a network or strategic alliance. Funding is generally received by one lead organisation and divided amongst partners on a programmatic level. Each member of the alliance or network then deploys its own activities.
 
 4. **Core funding** - designed for situations where your organisation receives unearmarked funding, from which you fund one or more activities.
+
+These models are not limitative, but provide an overall structure. A combination of different elements may be needed to give a clear picture of your activities
+in IATI.
