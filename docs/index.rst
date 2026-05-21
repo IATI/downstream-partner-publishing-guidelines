@@ -1,8 +1,12 @@
-**********************************************
-IATI Guidelines: Downstream Partner Publishing
-**********************************************
+These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultaion with the following funders:
 
-These guidelines provide organisations in receipt of funding from [to add], “partners”, with clear and accessible information on publishing relevant, timely and high-quality IATI data. This is a requirement under transparency provisions within their funder's agreement or contract.
+* Netherlands - Ministry of Foreign Affairs
+* United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
+* Belgium - Ministry of Foreign Affairs
+* Denmark - International Development Agency (DANIDA)
+* Sweden - International Development Cooperation Agency (Sida)
+
+This documentation site outlines what to publish, how to structure your data, and where you can find further resources.
 
 .. toctree::
     :hidden:
