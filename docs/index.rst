@@ -20,15 +20,25 @@ This documentation site outlines what to publish, how to structure your data, an
 
     Home <self>
 
+
 .. toctree::
    :hidden:
    :titlesonly:
    :maxdepth: 3
-   :caption: Publishing
+   :caption: Activity Structure
 
    activity_structure
+
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: What to publish
+
    organisation_data
    activity_data
+
 
 .. toctree::
    :hidden:
