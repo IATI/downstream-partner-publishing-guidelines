@@ -1,12 +1,7 @@
-******************
-Activity Data
-******************
+*********************
+2) Programme funding
+*********************
 
-The following table describes the elements to be published in the IATI activity file. 
+Definition: an organisation is funded to carry out a specific program or series of activities. As a result of this funding, a series of activities are planned. Those activities lead to outflows from the organisation.
 
-For the formal specification, please refer to the `IATI Standard activity reference pages <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_.
-
-.. csv-table::
-    :file: tables/activity_file_requirements.csv
-    :widths: 30,50,20
-    :header-rows: 1
+Organisation A funds Organisation B to carry out Activity B (a Program). As part of Activity B, Organisation B starts Activities B1 and B2.
