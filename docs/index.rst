@@ -2,12 +2,12 @@
 Introduction
 **************************
 
-These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultaion with the following funders:
+These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultation with the following funders:
 
 * Netherlands - Ministry of Foreign Affairs
 * United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
 * Belgium - Ministry of Foreign Affairs
-* Denmark - International Development Agency (DANIDA)
+* Denmark - International Development Agency (Danida)
 * Sweden - International Development Cooperation Agency (Sida)
 
 This documentation site outlines what to publish, how to structure your data, and where you can find further resources.
@@ -26,6 +26,7 @@ This documentation site outlines what to publish, how to structure your data, an
    :maxdepth: 3
    :caption: Publishing
 
+   activity_structure
    organisation_data
    activity_data
 
