@@ -1,12 +1,7 @@
-******************
-Activity Data
-******************
+********************
+1) Project funding
+********************
 
-The following table describes the elements to be published in the IATI activity file. 
+Definition: an organisation is funded to carry out a specific activity. This activity leads to direct outflows from the organisation.
 
-For the formal specification, please refer to the `IATI Standard activity reference pages <https://iatistandard.org/en/iati-standard/203/activity-standard/>`_.
-
-.. csv-table::
-    :file: tables/activity_file_requirements.csv
-    :widths: 30,50,20
-    :header-rows: 1
+**Direct project funding**: Organisation A funds Organisation B to carry out Activity B.
