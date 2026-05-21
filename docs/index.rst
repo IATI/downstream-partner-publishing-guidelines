@@ -1,18 +1,29 @@
-******************
-IATI Documentation
-******************
+**************************
+Introduction
+**************************
 
-This file is where your documentation goes. 
+These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultaion with the following funders:
 
-.. raw:: html
+* Netherlands - Ministry of Foreign Affairs
+* United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
+* Belgium - Ministry of Foreign Affairs
+* Denmark - International Development Agency (DANIDA)
+* Sweden - International Development Cooperation Agency (Sida)
 
-   This is  <a href="api-docs/test-widget-api/" target="_blank">an API specification</a> (opens in a new tab)
-
+This documentation site outlines what to publish, how to structure your data, and where you can find further resources.
 
 .. toctree::
     :hidden:
     :titlesonly:
     :maxdepth: 3
-    :caption: Documentation
+    :caption: Home
 
     Home <self>
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
+   :caption: Data Linking
+
+   linking_activity_to_funder
