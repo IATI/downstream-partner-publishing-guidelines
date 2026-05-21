@@ -1,18 +1,12 @@
-******************
-IATI Documentation
-******************
+***************************************
+How do I link my activity to my funder?
+***************************************
 
-This file is where your documentation goes. 
+Publishing the links between you and your partners creates what we call network transparency: making the entire chain between funding organisation(s) and various levels of implementing organisations visible. 
 
-.. raw:: html
+To achieve this – rather than publishing isolated datasets – it is important to clearly define the relations between organisations and activities. In IATI this is done primarily through activity identifiers.
 
-   This is  <a href="api-docs/test-widget-api/" target="_blank">an API specification</a> (opens in a new tab)
+Your funder should be able to provide you with their activity identifier to reference. This activity identifier should be included in your IATI data each time you reference your funder:
 
-
-.. toctree::
-    :hidden:
-    :titlesonly:
-    :maxdepth: 3
-    :caption: Documentation
-
-    Home <self>
+* Transactions: in 'incoming fund' or 'incoming commitment' transactions (as the 'provider activity identifier')
+* Participating Organisations: when listing your funder with role = "Funding"
