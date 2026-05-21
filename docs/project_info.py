@@ -3,13 +3,13 @@
 # The main conf.py imports these values and can be synced across all repos.
 
 # Project name (used for titles, headers, and Sphinx internals)
-project = "IATI Docs Base"
+project = "IATI Downstream Partner Publishing Guidance"
 
 # Eyebrow text: the smaller text that appears directly above the website title
-eyebrow_text = "IATI Tools: Documentation"
+eyebrow_text = "IATI Guidance: Downstream Partners"
 
 # GitHub repository URL (for "Edit on GitHub" links)
-github_repository = "https://github.com/IATI/iati-docs-base"
+github_repository = "https://github.com/IATI/downstream-partner-publishing-guidance"
 
 # Supported languages for the documentation
 languages = ["en", "fr", "es"]
