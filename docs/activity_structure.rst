@@ -19,3 +19,13 @@ Funding models
 
 4. :ref:`Core funding <core_funding>` - unearmarked funding, from which you fund one or more activities.
 
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
+
+    project_funding
+    programme_funding
+    partnerships
+    core_funding
+
