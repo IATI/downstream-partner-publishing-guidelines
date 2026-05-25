@@ -2,6 +2,9 @@
 Introduction
 **************************
 
+.. warning::
+    These guidelines are in draft and are not yet finalised. This site is provided for display purposes.
+
 These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultation with the following funders:
 
 * Netherlands - Ministry of Foreign Affairs
@@ -28,10 +31,6 @@ This documentation site outlines what to publish, how to structure your data, an
    :caption: Structuring your data
 
    activity_structure
-   project_funding
-   programme_funding
-   partnerships
-   core_funding
 
 
 .. toctree::
@@ -48,6 +47,6 @@ This documentation site outlines what to publish, how to structure your data, an
    :hidden:
    :titlesonly:
    :maxdepth: 3
-   :caption: FAQs
+   :caption: Common questions
 
    linking_activity_to_funder

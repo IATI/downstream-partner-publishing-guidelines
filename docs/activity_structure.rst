@@ -2,20 +2,30 @@
 How do I structure my data?
 ***************************
 
-Activities can be defined in a way that makes sense for your organisation - e.g. they could be programmes, projects, or grants. 
+The IATI Standard uses the concept of 'activities', which can be defined in a way that makes sense for your organisation. Read more about `How to define an activity. <https://iatistandard.org/en/guidance/standard-overview/activity-information/activity-defined/>`_
 
-This page provides some example models for describing different types of relationship between donors and recipients in the development funding chain. The four example models are project funding, program funding, partnerships and core funding.
+The four models below illustrate different types of relationships between donors and recipients of development and humanitarian funding.
 
-The first step in building your publication is to determine the kinds of activities your
-publication should contain. Which of the models fits your situation best?
+These models are not intended to be exhaustive, but they may help you identify the approach that best fits your organisation’s situation. In some cases, using a combination of models will provide a more complete picture of your organisation’s activities.
 
-1. **Project** - any activity that is directly funded by a donor (or your own funds) and that leads to direct transfers to other organisations and/or expenditures.
+Funding models
+-------------------
 
-2. **Programme** - activities which are subdivided into smaller activities. Funds are generally managed at the parent level, transfers or spending usually takes place at the ‘child’ level. Situations where direct co-funding is received at the child level can also be covered using this model. This model also works for basket or pooled funds.
+1. :ref:`Project <project_funding>` - any activity that is directly funded by a donor (or your own funds), that leads to direct transfers to other organisations or expenditure.
 
-3. **Partnerships** - designed for situations where your organisation works in a network or strategic alliance. Funding is generally received by one lead organisation and divided amongst partners on a programmatic level. Each member of the alliance or network then deploys its own activities.
+2. :ref:`Programme <programme_funding>` - activities which are subdivided into smaller activities. Funds are generally managed at the 'parent' level, then spending usually takes place at the 'child' level.
 
-4. **Core funding** - designed for situations where your organisation receives unearmarked funding, from which you fund one or more activities.
+3. :ref:`Partnerships <partnerships>` - working a network or strategic alliance, funding is generally received by a lead organisation then divided amongst partners on a programmatic level.
 
-These models are not limitative, but provide an overall structure. A combination of different elements may be needed to give a clear picture of your activities
-in IATI.
+4. :ref:`Core funding <core_funding>` - unearmarked funding, from which you fund one or more activities.
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
+
+    project_funding
+    programme_funding
+    partnerships
+    core_funding
+
