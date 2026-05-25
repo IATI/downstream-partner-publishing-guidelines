@@ -2,8 +2,8 @@
 Introduction
 **************************
 
-.. attention::
-    These guidelines are draft and not yet finalised. This site is provided for display purposes.
+.. warning::
+    These guidelines are in draft and are not yet finalised. This site is provided for display purposes.
 
 These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultation with the following funders:
 
