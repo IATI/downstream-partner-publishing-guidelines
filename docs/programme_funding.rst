@@ -1,7 +1,8 @@
+.. _`programme_funding`:
 *********************
 2) Programme funding
 *********************
 
-Definition: an organisation is funded to carry out a specific program or series of activities. As a result of this funding, a series of activities are planned. Those activities lead to outflows from the organisation.
+Programme funding applies where activities are divided into smaller sub-activities. Funds are usually managed at the parent level, while spending or transfers typically occur at the “child” level. 
 
-Organisation A funds Organisation B to carry out Activity B (a Program). As part of Activity B, Organisation B starts Activities B1 and B2.
+This model can also accommodate situations where direct co-funding is received at the child level, as well as basket or pooled funding arrangements.
