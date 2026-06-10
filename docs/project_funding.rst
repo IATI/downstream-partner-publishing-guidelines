@@ -9,6 +9,10 @@ Example 1 - Direct project funding
 ----------------------------------
 - Organisation A funds Organisation B to carry out Activity B.
 
+.. figure:: images/direct_project_funding.jpg
+    :width: 80 %
+    :align: center
+    :alt: diagram of direct project funding
 
 
 Example 2 - Project funding with multiple implementing organisations
