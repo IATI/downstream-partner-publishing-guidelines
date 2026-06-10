@@ -5,7 +5,7 @@
 
 Project funding is provided to an organisation to carry out a specific activity, resulting in direct expenditure by the organisation.
 
-Example 1 - Direct project funding
+Example 1 - Simple project funding
 ----------------------------------
 - Organisation 1 funds Organisation 2 to carry out Activity B.
 
