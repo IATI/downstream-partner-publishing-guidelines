@@ -1,32 +1,29 @@
 .. caution::
     These guidelines are draft and not yet finalised. This site is for discussion purposes only.
 
-***************************
-Funder-specific information
-***************************
+***********************
+Funder-specific guidance
+***********************
 
 This page covers additional requirements or guidance, specific to individual funders.
 
-Netherlands - Ministry of Foreign Affairs
-------------------------------------------
-[to add if needed]
+[information to be added if needed]
+
+Netherlands
+^^^^^^^^^^^^
 
 
-United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
-------------------------------------------------------------------
-[to add if needed]
+United Kingdom
+^^^^^^^^^^^^^^
 
 
-Belgium - Ministry of Foreign Affairs
--------------------------------------
-[to add if needed]
+Belgium
+^^^^^^^^
 
 
-Denmark - International Development Agency (Danida)
-----------------------------------------------------
-[to add if needed]
+Denmark
+^^^^^^^^
 
 
-Sweden - International Development Cooperation Agency (Sida)
-------------------------------------------------------------
-[to add if needed]
+Sweden
+^^^^^^^
