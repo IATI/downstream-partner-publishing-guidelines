@@ -10,3 +10,11 @@ Your funder should be able to provide you with their activity identifier to refe
 
 * Transactions: in 'incoming fund' or 'incoming commitment' transactions (as the 'provider activity identifier')
 * Participating Organisations: when listing your funder with role = "Funding"
+
+
+.. figure:: images/iati_publisher_provider_activity_id.png
+    :width: 100 %
+    :align: center
+    :alt: Populating the 'provider activity ID' field within a transaction
+
+    *Figure 1: Where to populate the 'provider activity ID' within a transaction in IATI Publisher*
