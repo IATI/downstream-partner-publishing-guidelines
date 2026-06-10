@@ -10,3 +10,18 @@ Your funder should be able to provide you with their activity identifier to refe
 
 * Transactions: in 'incoming fund' or 'incoming commitment' transactions (as the 'provider activity identifier')
 * Participating Organisations: when listing your funder with role = "Funding"
+
+Examples
+---------
+
+In the example below, the UK Foreign, Commonwealth & Development Office is being referenced as the 'provider organisation' (i.e. funder). 
+
+Within an activity transaction, enter your funder's IATI organisation reference (e.g. "GB-GOV-1" for FCDO), provider activity ID (e.g. "GB-GOV-1-300001" - change the end number accordingly), organisation name and type.
+
+.. figure:: images/iati_publisher_provider_activity_id.png
+    :width: 100 %
+    :align: center
+    :alt: Populating the 'provider activity ID' field within a transaction
+
+    *Figure 1: Where to populate the 'provider activity ID' within a transaction in IATI Publisher*
+
