@@ -47,6 +47,15 @@ These guidelines help you understand what information to publish, how to organis
    :hidden:
    :titlesonly:
    :maxdepth: 3
+   :caption: Donor-specific guidance
+
+   donor_specific_guidance
+
+
+.. toctree::
+   :hidden:
+   :titlesonly:
+   :maxdepth: 3
    :caption: Common questions
 
    linking_activity_to_funder
