@@ -10,9 +10,16 @@ Steps to complete
 
 .. topic:: 1) Find your funder's identifiers
    
-   Your funder should give you two identifiers: their IATI organisation reference (e.g. GB-GOV-1) and the IATI activity identifier for the specific     project funding you (e.g. GB-GOV-1-300001). 
+   Your funder should give you two identifiers: their IATI organisation identifier (e.g. GB-GOV-1 for FCDO) and the IATI activity identifier for the specific project that is funding your work (e.g. GB-GOV-1-300001). 
 
-If you don't have these identifiers yet, ask your funder or `search activities on d-portal <https://d-portal.iatistandard.org/>`_. You can include your funder's name and organisation type in your publication initially, then add identifiers at a later date.
+You can find the organisation identifiers of common funders in the table below:
+
+.. csv-table::
+    :file: tables/funder_org_references.csv
+    :widths: 60,25
+    :header-rows: 1
+
+If you don't know the relevant activity to link to for your funder, contact them or `search their activity data on d-portal <https://d-portal.iatistandard.org/>`_. You can include your funder's name, organisation identifier, and organisation type in your publication initially, then add the activity identifier at a later date.
 
 
 .. topic:: 2) Add your funder as a participating organisation
