@@ -5,7 +5,7 @@ IATI Element,Field required?,Comments
 `Description <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/description/>`_,Mandatory,Meaningful description of the activity (minimum short paragraph).
 `Activity Status <https://iatistandard.org/en/guidance/standard-guidance/activity-dates-status/>`_,Mandatory,Status of the activity (Pipeline/Implementation/…).
 `Activity Date <https://iatistandard.org/en/guidance/standard-guidance/activity-dates-status/>`_,Mandatory,Planned start and end dates of the activity.
-`Sector <https://iatistandard.org/en/guidance/standard-guidance/activity-thematic-focus/>`_,Mandatory,
+`Sector <https://iatistandard.org/en/guidance/standard-guidance/activity-thematic-focus/>`_,Mandatory,"Use OECD DAC 5-digit sector codes, where possible. These describe the thematic focus of your activity."
 `Participating Organisation <https://iatistandard.org/en/guidance/standard-guidance/activity-participants/>`_,Mandatory,"Funding - the organisation(s) funding the project.
 
 Implementing - the organisation carrying out the actual work of the project.
@@ -17,9 +17,16 @@ For example, activities undertaken in the territory of the donor country (e.g. r
 
 Regions can be specified instead of, or as well as, individual countries if needed. When using percentages, all percentages across countries and regions must add up to 100%."
 `Budget <https://iatistandard.org/en/guidance/standard-guidance/activity-budgets/>`_,Mandatory,
-`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_,Mandatory,"Incoming Funds and Outgoing Disbursements are mandatory. 
+"`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
+(Incoming Funds)",Mandatory,"Use transaction type “1 - Incoming funds” for received funds, or transaction type “11 - Incoming commitment” for future agreed incoming funds.
 
-Expenditure, Incoming and Outgoing Commitments to include if applicable."
+Use the field “Provider activity ID” to reference your funder's activity and link your data to their's."
+"`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
+(Outgoing Funds)",Mandatory,"Use transaction type “3 - Disbursement” for funds paid to other organisations, or transaction type “2 - Outgoing commitment” for future agreed payments."
+"`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
+(Administrative costs and overheads)",Mandatory,"Use transaction type “4 - Expenditure” for funds spent on goods or services for the activity.
+
+These can be aggregated into one expenditure transaction per quarter."
 `Contact Info <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/contact-info/>`_,Mandatory,Contact address and email for the reporting organisation. This can be a generic enquiry email address.
 `Results <https://iatistandard.org/en/guidance/standard-guidance/results/>`_,Varies by funder (`more information <https://iati-downstream-partner-publishing-guidelines.readthedocs-hosted.com/en/latest/funder_specific_info/>`_),Data on results and indicators of the project. This can include links to published documents.
 `Policy Marker <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/policy-marker/>`_,Recommended,
