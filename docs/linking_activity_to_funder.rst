@@ -56,6 +56,7 @@ Example
 In the example below, the UK Foreign, Commonwealth & Development Office is being referenced as the 'provider organisation' (i.e. funder). 
 
 Within an activity transaction, enter the following data about your funder:
+
 - organisation reference (e.g. "GB-GOV-1" for FCDO)
 - provider activity id (e.g. "GB-GOV-1-300001")
 - organisation type (e.g. "10 - Government")
