@@ -1,5 +1,5 @@
 **************************
-Frequently asked questions
+Frequently Asked Questions
 **************************
 
 1) :ref:`How do I link my activity to my funder? <faq_1>` 
