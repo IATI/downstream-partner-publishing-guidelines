@@ -60,3 +60,4 @@ These guidelines help you understand what information to publish, how to organis
    :caption: Common questions
 
    faqs
+   linking_activity_to_funder
