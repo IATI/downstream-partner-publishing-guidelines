@@ -25,9 +25,14 @@ Frequently Asked Questions
 .. _faq_1: 
 
 1) How do I link my activity to my funder?
-------------------------------------------
+"""""""""""""""""""""""""""""""""""""""""""
 :ref:`See how do I link my activity to my funder? <linking_activity_to_funder>` 
 
+| 
+
+---------
+
+| 
 
 .. _faq_2: 
 
