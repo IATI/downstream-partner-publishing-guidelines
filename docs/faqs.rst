@@ -117,11 +117,3 @@ As an open data standard, IATI requires you to publish your data under an open l
 Generally, we recommend that each organisation is responsible for publishing and maintaining its own IATI data.
 
 If you need to publish on behalf of another organisation, the IATI Secretariat can also provide information on what’s possible via different publishing methods.
-
-
-.. toctree::
-    :hidden:
-    :titlesonly:
-    :maxdepth: 3
-
-    linking_activity_to_funder
