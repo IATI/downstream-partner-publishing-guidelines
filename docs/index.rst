@@ -59,6 +59,4 @@ These guidelines help you understand what information to publish, how to organis
    :maxdepth: 3
    :caption: Common questions
 
-   linking_activity_to_funder
-   aggregating_transactions
-   secondary_reporting
+   common_questions
