@@ -25,30 +25,23 @@ Frequently Asked Questions
 .. _faq_1: 
 
 1) How do I link my activity to my funder?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+------------------------------------------
 :ref:`See how do I link my activity to my funder? <linking_activity_to_funder>` 
 
-| 
 
 ---------
-
-| 
 
 .. _faq_2: 
 
 2) Do these requirements only apply to activities that are funded by a donor that requires IATI publishing?
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+-----------------------------------------------------------------------------------------------------------
 Consult your agreement with your funder to understand their exact expectations around IATI publishing.
 
 Typically, the IATI publishing requirement applies only to activities funded by the relevant donor. However, we strongly encourage partners to publish IATI data on all of their humanitarian and development activities, not just the ones required by your funder. 
 
 Making your whole portfolio available is the best way to make use of IATI data for collaboration with other organisations and to make the information you publish valuable and usable.
 
-| 
-
 ---------
-
-| 
 
 .. _faq_3: 
 
