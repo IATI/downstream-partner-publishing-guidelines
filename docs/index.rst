@@ -57,8 +57,7 @@ These guidelines help you understand what information to publish, how to organis
    :hidden:
    :titlesonly:
    :maxdepth: 3
-   :caption: Common questions
+   :caption: FAQs
 
+   faqs
    linking_activity_to_funder
-   aggregating_transactions
-   secondary_reporting

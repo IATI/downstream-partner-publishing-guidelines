@@ -15,6 +15,8 @@ Useful links
 ^^^^^^^^^^^^
 * `IATI Account help documentation <https://docs.account.iatistandard.org/en/latest/>`_ - you will be using IATI Account to register with IATI and manage information about your organisation.
 
+* `IATI publishing tools and services <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/publishing-tools-and-services-to-create-your-iati-data-files/>`_ - a range of free and paid tools are available to help you publish IATI data, offering varying levels of support and automation. 
+
 
 * `IATI Publisher help documentation <https://docs.publisher.iatistandard.org/en/latest/>`_ - if your organisation intends to publish fewer than 100 IATI activities, you can use the free IATI Publisher tool to prepare and publish your data. Third-party publishing tools and services are also available.
 
