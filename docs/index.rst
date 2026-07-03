@@ -59,4 +59,4 @@ These guidelines help you understand what information to publish, how to organis
    :maxdepth: 3
    :caption: Common questions
 
-   common_questions
+   faqs
