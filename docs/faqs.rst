@@ -1,5 +1,5 @@
 **************************
-Frequently Asked Questions
+Frequently asked questions
 **************************
 
 1) :ref:`How do I link my activity to my funder? <faq_1>` 
@@ -68,6 +68,11 @@ Personal information covered under GDPR, such as names of individuals, must neve
 
 You may wish to discuss exclusion of information with your funder.
 
+| 
+
+---------
+
+| 
 
 .. _faq_4: 
 
@@ -80,7 +85,11 @@ Transactions have a date in the past and can be labelled as different types.
 - 'Disbursements' are the transfer of funds to another organisation and should typically not be aggregated.
 - 'Expenditure' can be aggregated and published as a single ‘expenditure’ transaction per quarter.
 
+| 
 
+---------
+
+| 
 
 .. _faq_5: 
 
@@ -88,6 +97,11 @@ Transactions have a date in the past and can be labelled as different types.
 """"""""""""""""""""""""""""""""
 You can report financial information in the currency of your choice. Our recommendation is to report all amounts in the currency in which the actual transaction took place.
 
+| 
+
+---------
+
+| 
 
 .. _faq_6: 
 
@@ -97,6 +111,11 @@ As an open data standard, IATI requires you to publish your data under an open l
 
 `Read more about how to license your data and the different options here. <https://iatistandard.org/en/guidance/publishing-data/what-data-to-publish/how-to-license-your-data/>`_
 
+| 
+
+---------
+
+| 
 
 .. _faq_7: 
 
