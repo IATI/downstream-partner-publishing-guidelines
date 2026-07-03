@@ -2,7 +2,7 @@
     These guidelines are draft and not yet finalised. This site is for discussion purposes only.
 
 ******************
-Activity Data
+Activity data
 ******************
 
 The following table describes the elements to be published in the IATI activity file. 
