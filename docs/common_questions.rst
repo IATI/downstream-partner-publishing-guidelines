@@ -1,78 +1,96 @@
-***************************************
-How do I link my activity to my funder?
-***************************************
+*****************
+Common Questions
+*****************
 
-Publishing links between your activity and your funder creates traceability — a visible chain from donors through to implementing organisations. You do this in two places in your IATI activity data: participating organisations and transactions.
+1) :ref:`Do these requirements only apply to activities that are funded by a donor that requires IATI publishing? <faq_1>` 
 
+2) :ref:`How do I link my activity to my funder? <faq_2>` 
 
-Steps to complete
------------------
+3) :ref:`How should sensitive data be treated? <faq_3>` 
 
-.. topic:: 1) Find your funder's identifiers
-   
-   Your funder should give you two identifiers: their IATI organisation identifier (e.g. GB-GOV-1 for FCDO) and the IATI activity identifier for the specific project that is funding your work (e.g. GB-GOV-1-300001). 
+4) :ref:`How do I publish my activity spend? <faq_4>` 
 
-You can find the organisation identifiers of common funders in the table below:
+5) :ref:`Which currency should I use? <faq_5>` 
 
-.. csv-table::
-    :file: tables/funder_org_references.csv
-    :widths: 60,25
-    :header-rows: 1
+6) :ref:`Which data licence should I select? <faq_6>` 
 
-If you don't know the relevant activity to link to for your funder, contact them or `search their activity data on d-portal <https://d-portal.iatistandard.org/>`_. You can include your funder's name, organisation identifier, and organisation type in your publication initially, then add the activity identifier at a later date.
+7) :ref:`Can I publish IATI data on behalf of another organisation? <faq_7>` 
 
+| 
 
-.. topic:: 2) Add your funder as a participating organisation
-   
-   Use role = "Funding" (code 1) in the 'participating-org' element of your activity.
+---------
 
-Include every organisation involved in the activity — funding, accountable, extending, and implementing. An organisation can hold multiple roles, in which case list it once per role.
+| 
 
-Also list your organisation (with role = "Accountable" or "Implementing") and any downstream partners you fund.
-   
+.. _faq_1: 
 
-.. topic:: 3) Add incoming fund or commitment transactions
-   
-   Reference your funder's activity identifier as the 'provider-activity-id' within each transaction.
+1) Do these requirements only apply to activities that are funded by a donor that requires IATI publishing?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Consult your agreement with your funder to understand their exact expectations around IATI publishing.
 
-Incoming Funds (code 1) = money already received. Incoming Commitment (code 11) = money promised but not yet transferred.
+Typically, the IATI publishing requirement applies only to activities funded by the relevant donor. However, we strongly encourage partners to publish IATI data on all of their humanitarian and development activities, not just the ones required by your funder. 
 
-'provider-activity-id' can be found within the 'provider-org' element of a transaction.
+Making your whole portfolio available is the best way to make use of IATI data for collaboration with other organisations and to make the information you publish valuable and usable.
 
 
-.. topic:: 4) Link parent / sibling activities (if applicable)
-   
-   This is only needed if your activity is part of a programme with multiple sub-activities.
+.. _faq_2: 
 
-If your organisation runs a programme with multiple activities (e.g. a parent programme and several country-level sub-activities), link them using 'related-activity'.
+2) How do I link my activity to my funder?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+:ref:`See how do I link my activity to my funder? <linking_activity_to_funder>` 
 
 
-Checklist before you publish
------------------------------
-- I have my funder's IATI organisation reference
-- I have my funder's IATI activity identifier for this project
-- My funder is listed under 'participating-org' with role = 1 (Funding)
-- Each incoming transaction includes a 'provider-org' with @provider-activity-id
-- My own organisation is listed under 'participating-org' (accountable or implementing role)
+.. _faq_3: 
 
-----------------------------------------------------------------------------------------------------------------------------------
+3) How should sensitive data be treated?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Some activities may involve sensitive information. In such cases, parts of the data may need to be excluded or adapted to ensure safety while still keeping the information useful. Sometimes, the entire activity may need to be excluded.
 
-Example
---------
+Each partner organisation is responsible for deciding what information can and cannot be published.
 
-In the example below, the UK Foreign, Commonwealth & Development Office is being referenced as the 'provider organisation' (i.e. funder). 
+There are many ways of adapting data to remove sensitive details, including:
 
-Within an activity transaction, enter the following data about your funder:
+- Removing or anonymising the name of the implementing or funding organisation
+- Publishing a recipient region instead of a specific country
+- Adjusting the activity title or description
 
-- organisation reference (e.g. "GB-GOV-1" for FCDO)
-- provider activity id (e.g. "GB-GOV-1-300001")
-- organisation type (e.g. "10 - Government")
-- narrative (i.e. their name)
+Personal information covered under GDPR, such as names of individuals, must never be published.
 
-.. figure:: images/iati_publisher_provider_activity_id.png
-    :width: 100 %
-    :align: center
-    :alt: Populating the 'provider activity ID' field within a transaction
+You may wish to discuss exclusion of information with your funder.
 
-    *Figure 1: Where to populate the 'provider activity ID' within a transaction in IATI Publisher*
 
+.. _faq_4: 
+
+4) How do I publish my activity spend?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+There are two types of financial information for activities - 'budgets' and 'transactions'.
+
+Transactions have a date in the past and can be labelled as different types.
+
+- 'Disbursements' are the transfer of funds to another organisation and should typically not be aggregated.
+- 'Expenditure' can be aggregated and published as a single ‘expenditure’ transaction per quarter.
+
+
+.. _faq_5: 
+
+5) Which currency should I use?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+You can report financial information in the currency of your choice. Our recommendation is to report all amounts in the currency in which the actual transaction took place.
+
+
+.. _faq_6: 
+
+6) Which data licence should I select?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+As an open data standard, IATI requires you to publish your data under an open licence. This allows others to freely use it, supporting transparency and efficiency in development and humanitarian work.
+
+`Read more about how to license your data and the different options here. <https://iatistandard.org/en/guidance/publishing-data/what-data-to-publish/how-to-license-your-data/>`_
+
+
+.. _faq_7: 
+
+7) Can I publish IATI data on behalf of another organisation?
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Generally, we recommend that each organisation is responsible for publishing and maintaining its own IATI data.
+
+If you need to publish on behalf of another organisation, the IATI Secretariat can also provide information on what’s possible via different publishing methods.
