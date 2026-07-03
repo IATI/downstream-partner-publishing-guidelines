@@ -123,4 +123,4 @@ As an open data standard, IATI requires you to publish your data under an open l
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 Generally, we recommend that each organisation is responsible for publishing and maintaining its own IATI data.
 
-If you need to publish on behalf of another organisation, the IATI Secretariat can also provide information on what’s possible via different publishing methods.
+If you need to publish on behalf of another organisation, `contact the IATI Secretariat <https://iatistandard.org/en/guidance/get-support/>`_ for advice on the publishing options available.
