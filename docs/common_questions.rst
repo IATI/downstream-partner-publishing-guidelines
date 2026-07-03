@@ -32,6 +32,11 @@ Typically, the IATI publishing requirement applies only to activities funded by 
 
 Making your whole portfolio available is the best way to make use of IATI data for collaboration with other organisations and to make the information you publish valuable and usable.
 
+| 
+
+---------
+
+| 
 
 .. _faq_2: 
 
@@ -39,6 +44,11 @@ Making your whole portfolio available is the best way to make use of IATI data f
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 :ref:`See how do I link my activity to my funder? <linking_activity_to_funder>` 
 
+| 
+
+---------
+
+| 
 
 .. _faq_3: 
 
@@ -58,6 +68,11 @@ Personal information covered under GDPR, such as names of individuals, must neve
 
 You may wish to discuss exclusion of information with your funder.
 
+| 
+
+---------
+
+| 
 
 .. _faq_4: 
 
@@ -70,6 +85,11 @@ Transactions have a date in the past and can be labelled as different types.
 - 'Disbursements' are the transfer of funds to another organisation and should typically not be aggregated.
 - 'Expenditure' can be aggregated and published as a single ‘expenditure’ transaction per quarter.
 
+| 
+
+---------
+
+| 
 
 .. _faq_5: 
 
@@ -77,6 +97,11 @@ Transactions have a date in the past and can be labelled as different types.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 You can report financial information in the currency of your choice. Our recommendation is to report all amounts in the currency in which the actual transaction took place.
 
+| 
+
+---------
+
+| 
 
 .. _faq_6: 
 
@@ -86,6 +111,11 @@ As an open data standard, IATI requires you to publish your data under an open l
 
 `Read more about how to license your data and the different options here. <https://iatistandard.org/en/guidance/publishing-data/what-data-to-publish/how-to-license-your-data/>`_
 
+| 
+
+---------
+
+| 
 
 .. _faq_7: 
 
@@ -94,3 +124,11 @@ As an open data standard, IATI requires you to publish your data under an open l
 Generally, we recommend that each organisation is responsible for publishing and maintaining its own IATI data.
 
 If you need to publish on behalf of another organisation, the IATI Secretariat can also provide information on what’s possible via different publishing methods.
+
+
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
+
+    linking_activity_to_funder
