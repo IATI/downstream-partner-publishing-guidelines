@@ -1,3 +1,4 @@
+.. _`linking_activity_to_funder`:
 ***************************************
 How do I link my activity to my funder?
 ***************************************
