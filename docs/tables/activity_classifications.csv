@@ -1,6 +1,5 @@
 IATI Element,Field required?,Comments
 `Policy Marker <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/policy-marker/>`_,Recommended,
-`Documents <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/document-link/>`_,Optional,"Documents relating to the activity including project proposal, Theory of Change, reports, pictures, project updates etc."
 `Tag <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/tag/>`_,Optional,
 `Humanitarian Scope <https://iatistandard.org/en/guidance/standard-guidance/humanitarian/>`_,Optional,
 `Activity Scope <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/activity-scope/>`_,Optional,"The geographical scope of the activity: regional, national, subnational, etc."
