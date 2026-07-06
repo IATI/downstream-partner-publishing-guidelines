@@ -5,9 +5,11 @@
 Organisation data
 ******************
 
-The following table describes the elements to be published in the IATI organisation file.
+The IATI Standard is built around two types of data file: the Organisation file and the Activity file.
 
-For the formal specification, please refer to the `IATI Standard organisation reference <https://iatistandard.org/en/iati-standard/203/organisation-standard/>`_.
+Your Organisation file includes information such as your organisation's name, identifier, forward-looking budgets, total expenditure, and links to documents like annual reports and strategies. 
+
+The table below lists the information you can include about your organisation, and shows whether each item is mandatory, recommended, or optional.
 
 .. csv-table::
     :file: tables/org_file_requirements.csv
