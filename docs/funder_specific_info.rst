@@ -5,30 +5,25 @@
 Funder-specific information
 ***************************
 
-This page covers additional requirements or guidance, specific to individual funders.
+These pages covers additional requirements or guidance, specific to individual funders.
 
-[information to be added if needed]
+1) :ref:`Belgium - Ministry of Foreign Affairs <info_belgium>` 
 
-Belgium - Ministry of Foreign Affairs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2) :ref:`Denmark - Ministry of Foreign Affairs (Danida) <info_denmark>` 
 
+3) :ref:`Netherlands - Ministry of Foreign Affairs <info_netherlands>` 
 
-Denmark - Ministry of Foreign Affairs (Danida)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-For Strategic Partnership Agreements (SPAs), it is recommended to use a parent-child activity hierarchy as described for :ref:`programme funding <programme_funding>`.
+4) :ref:`Sweden - International Development Cooperation Agency (Sida) <info_sweden>` 
 
-* Level 1 (parent activity) - this is the MFA agreement itself, containing narrative information about the nature and purpose of the organisation's SPA.
-* Level 2 (child activity) - the activities funded by the organistion as part of their SPA. These should be linked back to the parent activity, and include any contributions from third parties.
+5) :ref:`United Kingdom - Foreign, Commonwealth & Development Office (FCDO) <info_uk>` 
 
+.. toctree::
+    :hidden:
+    :titlesonly:
+    :maxdepth: 3
 
-Netherlands - Ministry of Foreign Affairs
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-Sweden - International Development Cooperation Agency (Sida)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-
-United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
+    info_belgium
+    info_denmark
+    info_netherlands
+    info_sweden
+    info_uk

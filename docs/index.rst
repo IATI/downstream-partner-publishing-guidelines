@@ -27,6 +27,9 @@ The International Aid Transparency Initiative (IATI) is a global initiative to i
 
 The `IATI website <https://iatistandard.org/en/>`_ is a good place to visit for a general introduction to IATI, its data and uses.
 
+| 
+
+| 
 
 Why is data publishing important?
 ---------------------------------
