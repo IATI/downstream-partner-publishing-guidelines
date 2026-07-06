@@ -7,7 +7,7 @@ Organisation data
 
 The IATI Standard is built around two types of data file: the Organisation file and the Activity file.
 
-Your organisation file includes information such as your organisation's name, identifier, forward-looking budgets, total expenditure, and links to documents like annual reports and strategies. 
+Your Organisation file includes information such as your organisation's name, identifier, forward-looking budgets, total expenditure, and links to documents like annual reports and strategies. 
 
 The table below lists the information you can include about your organisation, and shows whether each item is mandatory, recommended, or optional.
 
