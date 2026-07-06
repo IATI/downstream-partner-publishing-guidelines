@@ -10,13 +10,14 @@ Publishing IATI data involves the following steps:
 
 You can find more information in our `comprehensive publishing guidance <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/>`_.
 
+|
 
 Useful links
 ^^^^^^^^^^^^
 * `IATI Account help documentation <https://docs.account.iatistandard.org/en/latest/>`_ - you will be using IATI Account to register with IATI and manage information about your organisation.
-|
+
 * `IATI publishing tools and services <https://iatistandard.org/en/guidance/publishing-data/how-to-publish-data/publishing-tools-and-services-to-create-your-iati-data-files/>`_ - a range of free and paid tools are available to help you publish IATI data, offering varying levels of support and automation. 
-|
+
 * `IATI Standard topic-specific guidance <https://iatistandard.org/en/guidance/standard-guidance/>`_ - advice on interpreting different aspects of the IATI Standard.
 |
 .. tip:: 
