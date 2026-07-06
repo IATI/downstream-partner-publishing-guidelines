@@ -15,6 +15,12 @@ These guidelines are for organisations that need to publish IATI data as a requi
 
 These guidelines help you understand what information to publish, how to organise your data, and where to find answers to common questions.
 
+| 
+
+---------
+
+| 
+
 What is the International Aid Transparency Initiative?
 ------------------------------------------------------
 The International Aid Transparency Initiative (IATI) is a global initiative to improve the transparency and accountability of funding for international development and humanitarian activities.
