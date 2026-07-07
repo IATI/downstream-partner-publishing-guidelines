@@ -15,7 +15,7 @@ tool_url = None
 nav_label = None
 
 # Eyebrow text: the smaller text that appears directly above the website title
-eyebrow_text = ""
+eyebrow_text = "IATI Documentation"
 
 # GitHub repository URL (for "Edit on GitHub" links)
 github_repository = "https://github.com/IATI/partner-publishing-guidelines"
