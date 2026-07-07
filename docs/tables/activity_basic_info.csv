@@ -7,12 +7,12 @@ IATI Element,Field required?,Comments
 `Activity Date <https://iatistandard.org/en/guidance/standard-guidance/activity-dates-status/>`_,Mandatory,"The start and end dates of the activity. Start dates may reflect the beginning of funding, planning or physical activity. End dates should, wherever possible, reflect the ending of physical activity."
 `Sector <https://iatistandard.org/en/guidance/standard-guidance/activity-thematic-focus/>`_,Mandatory,"Information on the sector(s) that the activity targets or supports, such as primary education or agriculture. Use OECD DAC 5-digit sector codes, where possible."
 `Participating Organisation <https://iatistandard.org/en/guidance/standard-guidance/activity-participants/>`_,Mandatory,"Funding - the organisation(s) funding the project.
-
+|
 Implementing - the organisation carrying out the actual work of the project.
-
+|
 Accountable - the organisation responsible for managing the delivery of the project."
 `Recipient Country and/or Region <https://iatistandard.org/en/guidance/standard-guidance/countries-regions/>`_,Mandatory,"The country or countries that benefit from the activity – i.e. where impact is felt. These should be eligible for Official Development Assistance (ODA) and may differ from the location of the activity.
-
+|
 Regions can be specified instead of, or as well as, individual countries. When using percentages, all percentages across countries and regions must add up to 100%."
 `Contact Info <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/contact-info/>`_,Mandatory,Contact information for the activity. You can add multiple points of contact if needed. 
 `Location <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/>`_,Optional,"The sub-national location of an activity, if known and safe to disclose. You can provide geographic coordinates, an administrative area, or general description. Multiple locations may be reported."
