@@ -25,7 +25,7 @@ github_repository = "https://github.com/IATI/partner-publishing-guidelines"
 plausible_domain = urlparse(tool_url).hostname if tool_url else None
 
 # Supported languages for the documentation
-languages = ["en", "fr", "es"]
+languages = ["en"]
 
 redoc = [
     {
