@@ -1,0 +1,2 @@
+IATI Element,Field required?,Comments
+`Results <https://iatistandard.org/en/guidance/standard-guidance/results/>`_,Varies by funder (:ref:`more information <funder_specific_info>`),"An output, outcome, impact or other intended benefit from the activity. Multiple results can be added and each must have at least one indicator."
