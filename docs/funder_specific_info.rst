@@ -11,7 +11,7 @@ These pages covers additional requirements or guidance, specific to individual f
 
 1) :ref:`Belgium - Ministry of Foreign Affairs <info_belgium>` 
 
-2) :ref:`Denmark - Ministry of Foreign Affairs (Danida) <info_denmark>` 
+2) :ref:`Denmark - Ministry of Foreign Affairs, Danida <info_denmark>` 
 
 3) :ref:`Netherlands - Ministry of Foreign Affairs <info_netherlands>` 
 
