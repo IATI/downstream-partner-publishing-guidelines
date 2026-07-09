@@ -8,7 +8,7 @@ Introduction
 These guidelines are for organisations that need to publish IATI data as a requirement for their funder. They have been developed in consultation with the following organisations:
 
 * Belgium - Ministry of Foreign Affairs
-* Denmark - Ministry of Foreign Affairs (Danida)
+* Denmark - Ministry of Foreign Affairs, Danida
 * Netherlands - Ministry of Foreign Affairs
 * Sweden - International Development Cooperation Agency (Sida)
 * United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
