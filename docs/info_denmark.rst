@@ -1,6 +1,6 @@
 .. _`info_denmark`:
 **********************************************
-Denmark - Ministry of Foreign Affairs (Danida)
+Denmark - Ministry of Foreign Affairs, Danida
 **********************************************
 
 For Strategic Partnership Agreements (SPAs), it is recommended to use a parent-child activity hierarchy as described for :ref:`programme funding <programme_funding>`.
