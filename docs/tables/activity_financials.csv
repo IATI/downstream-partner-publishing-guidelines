@@ -4,15 +4,14 @@ IATI Element,Field required?,Comments
 
 (Incoming Funds)","Mandatory
 
-(if applicable)","Use transaction type “1 - Incoming funds” for received funds, or transaction type “11 - Incoming commitment” for future agreed incoming funds.
+(if applicable)","Use transaction type “1 - Incoming Funds” for received funds, or transaction type “11 - Incoming Commitment” for future agreed incoming funds.
 
-
-Use the field “provider activity id” to reference your funder's activity and link your data to their's."
+Use the field “provider activity id” to reference your funder's activity and link your data to theirs."
 "`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
 
 (Outgoing Funds)","Mandatory
 
-(if applicable)","Use transaction type “3 - Disbursement” for funds paid to other organisations, or transaction type “2 - Outgoing commitment” for future agreed payments.
+(if applicable)","Use transaction type “3 - Disbursement” for funds paid to other organisations, or transaction type “2 - Outgoing Commitment” for future agreed payments.
 
 If your organisation hasn't made any outgoing fund transactions yet, you can publish your activity and add them later."
 "`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
