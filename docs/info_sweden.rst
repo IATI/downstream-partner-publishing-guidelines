@@ -7,7 +7,7 @@ Since 2025, Sida requires partner organisations to publish information about Sid
 
 Openaid.se
 -----------
-Sida collects information about Sida-funded activities from the IATI database and makes it available on openaid.se. The information is also used internally for analysis, monitoring, and follow-up. You can find all of Sida's partners' published IATI data here: https://openaid.se/en/organisations/partner-data-and-mediation
+Sida collects information about Sida-funded activities from published IATI data and displays it on openaid.se. The information is also used internally for analysis, monitoring, and follow-up. You can view data published by Sida's partners here: https://openaid.se/en/organisations/partner-data-and-mediation
 
  
 Which organisations does the requirement apply to?
@@ -23,14 +23,14 @@ See section :ref:`How do I link my activity to my funder? <linking_activity_to_f
 
 * Sida's organisation identifier is SE-0
 
-* Sida’s IATI activity identifiers have the format SE-0-SE-6-XXXXX, where XXXXX is a 5 or 8 digit contribution ID. You can find the contribution ID in the agreement document or by searching for the relevant contribution on openaid.se. If you are unsure, ask your programme manager at Sida.
+* Sida’s IATI activity identifiers have the format SE-0-SE-6-XXXXX, where XXXXX is a 5 or 8 digit contribution ID. You can find the contribution ID in your agreement document or by searching for the relevant contribution on `openaid.se <https://openaid.se/>`_. If you are unsure, ask your programme manager at Sida.
 
 Note that Sida publishes activities at two hiearchy levels. Activity identifiers with the format SE-0-SE-6-XXXXX-YYYYYYYYYY are second-level activities (called components), where YYYYYYYYYY is the 10-digit component ID. When you link your activity to Sida it is recommended to refer to the contribution (top-level activity), but either level can be used.
  
 
 Results information
 -------------------
-Sida does not require results information to be published in IATI format.
+Sida does not require results information to be published in the IATI format.
 
  
 .. topic:: Contact
