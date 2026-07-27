@@ -8,4 +8,4 @@ For Strategic Partnership Agreements (SPAs), it is recommended to use a parent-c
 * Level 1 (parent activity) - this is the MFA agreement itself, containing narrative information about the nature and purpose of the organisation's SPA.
 * Level 2 (child activity) - the activities funded by the organistion as part of their SPA. These should be linked back to the parent activity, and include any contributions from third parties.
 
-You can refer to further information here: `IATI publication by SPA organisations <https://um.dk/media/urtb1roo/spa-2027-2031-guidelines-annex-10-iati-publication.pdf>`_
+You can refer to further information here: `Administrative Guidelines for Strategic Partnerships 2022-2026 <https://um.dk/danida/samarbejspartnere/civ-org/stoetteform/ny-runde-strategiske-partnerskaber-2022-2026/administrative-retningslinjer/>`_ (see Annex 10: IATI publication)
