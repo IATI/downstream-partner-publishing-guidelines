@@ -1,6 +1,6 @@
 .. _`core_funding`:
 ******************
-4) Core funding
+3) Core funding
 ******************
 
 Core funding describes situations where your organisation receives unearmarked funding, from which you fund one or more activities.
