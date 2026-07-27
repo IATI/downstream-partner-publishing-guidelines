@@ -1,17 +1,24 @@
 IATI Element,Field required?,Comments
-`Budget <https://iatistandard.org/en/guidance/standard-guidance/activity-budgets/>`_,Mandatory,The value of the activity’s budget for each financial quarter or year over the lifetime of the activity.
+`Budget <https://iatistandard.org/en/guidance/standard-guidance/activity-budgets/>`_,Mandatory,The value of the activity’s budget for each financial quarter or year over its lifetime.
 "`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
+
 (Incoming Funds)","Mandatory
+
 (if applicable)","Use transaction type “1 - Incoming funds” for received funds, or transaction type “11 - Incoming commitment” for future agreed incoming funds.
+
 
 Use the field “provider activity id” to reference your funder's activity and link your data to their's."
 "`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
+
 (Outgoing Funds)","Mandatory
+
 (if applicable)","Use transaction type “3 - Disbursement” for funds paid to other organisations, or transaction type “2 - Outgoing commitment” for future agreed payments.
 
 If your organisation hasn't made any outgoing fund transactions yet, you can publish your activity and add them later."
 "`Transactions <https://iatistandard.org/en/guidance/standard-guidance/financial-transactions/>`_
+
 (Administrative costs and overheads)","Mandatory
+
 (if applicable)","Use transaction type “4 - Expenditure” for funds spent on goods or services for the activity.
 
 These can be aggregated into one expenditure transaction per quarter."
