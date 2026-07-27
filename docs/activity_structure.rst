@@ -7,12 +7,16 @@ How do I structure my data?
 
 The IATI Standard uses the concept of 'activities', which can be defined in a way that makes sense for your organisation. `Read more about how to define an activity. <https://iatistandard.org/en/guidance/standard-overview/activity-information/activity-defined/>`_
 
-The four models below illustrate different types of relationships between donors and recipients of development and humanitarian funding.
+The three models below illustrate different types of relationships between donors and recipients of development and humanitarian funding.
 
 These models are not intended to be exhaustive, but they may help you identify the best way to structure your IATI data. In some cases, using a combination of models will provide a more complete picture of your organisation’s activities.
 
 Funding models
 -------------------
+
+.. topic:: 1) :ref:`Project <project_funding>`
+   
+   Any standalone activity which has its own budget and goals, often run in only one country.
 
 1. :ref:`Project <project_funding>` - any standalone activity which has its own budget and goals, often run in only one country.
 
