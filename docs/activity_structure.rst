@@ -14,13 +14,11 @@ These models are not intended to be exhaustive, but they may help you identify t
 Funding models
 -------------------
 
-1. :ref:`Project <project_funding>` - any activity that is directly funded by a donor (or your own funds), that leads to disbursements to other organisations or expenditure.
+1. :ref:`Project <project_funding>` - any standalone activity which has its own budget and goals, often run in only one country.
 
-2. :ref:`Programme <programme_funding>` - activities which are subdivided into smaller activities within your organisation. Funds are generally managed at the 'parent' level, then spending takes place at the 'child' level.
+2. :ref:`Programme <programme_funding>` - an umbrella ("parent") activity with sub-activities ("child" activities) that have a coordinated approach and shared goals. Programmes often include one activity in each country where they operate and may be implemented by one or more organisations. Funding is typically managed at the parent level, while spending is carried out through the child activities.
 
-3. :ref:`Partnerships <partnerships>` - working in a network or strategic alliance, funding is generally received by a lead organisation then divided amongst partners on a programmatic level.
-
-4. :ref:`Core funding <core_funding>` - unearmarked funding, from which your organisation funds one or more activities.
+3. :ref:`Core funding <core_funding>` - unearmarked funding, from which your organisation funds one or more activities or overhead cost.
 
 .. toctree::
     :hidden:
