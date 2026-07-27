@@ -37,6 +37,6 @@ Results information
 Sida does not require results information to be published in the IATI format.
 
  
-.. topic:: Contact
+.. topic:: Contact Us
 
    Contact your programme manager at Sida or email statistics@sida.se if you have any questions about Sida’s IATI publishing requirements.
