@@ -18,11 +18,13 @@ Funding models
    
    Any standalone activity which has its own budget and goals, often run in only one country.
 
-1. :ref:`Project <project_funding>` - any standalone activity which has its own budget and goals, often run in only one country.
+.. topic:: 2) :ref:`Programme <programme_funding>`
+   
+   An umbrella ("parent") activity with sub-activities ("child" activities) that have a coordinated approach and shared goals. Programmes often include one activity in each country where they operate and may be implemented by one or more organisations. Funding is typically managed at the parent level, while spending is carried out through the child activities.
 
-2. :ref:`Programme <programme_funding>` - an umbrella ("parent") activity with sub-activities ("child" activities) that have a coordinated approach and shared goals. Programmes often include one activity in each country where they operate and may be implemented by one or more organisations. Funding is typically managed at the parent level, while spending is carried out through the child activities.
-
-3. :ref:`Core funding <core_funding>` - unearmarked funding, from which your organisation funds one or more activities or overhead cost.
+.. topic:: 3) :ref:`Core funding <core_funding>`
+   
+   Unearmarked funding, from which your organisation funds one or more activities or overhead cost.
 
 .. toctree::
     :hidden:
