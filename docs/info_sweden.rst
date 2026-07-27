@@ -36,6 +36,11 @@ Results information
 -------------------
 Sida does not require results information to be published in the IATI format.
 
+| 
+
+---------
+
+| 
  
 .. topic:: Contact Us
 
