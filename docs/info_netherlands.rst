@@ -3,4 +3,6 @@
 Netherlands - Ministry of Foreign Affairs
 *****************************************
 
-[placeholder]
+.. topic:: Netherlands Helpdesk Open Data site
+
+   Refer to https://helpdesk-opendata-minbuza.nl/iati-publication-guidelines/ for more information.
