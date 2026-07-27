@@ -9,7 +9,7 @@ Openaid.se
 -----------
 Sida collects information about Sida-funded activities from published IATI data and displays it on openaid.se. The information is also used internally for analysis, monitoring, and follow-up. 
 
-.. topic:: Tip
+.. tip::
 
    You can view data published by Sida's partners here: https://openaid.se/en/organisations/partner-data-and-mediation
 
