@@ -29,7 +29,7 @@ Scenario 2 - Programme funding with multiple implementing organisations
 - As part of Activity B, Organisation 2 starts Activities B1 and B2 (projects within the programme).
 - As part of Activity B2, Organisation 2 funds Organisation 3 to carry out Activity C.
 
-.. figure:: images/programme_funding_multiple_orgs.jpg
+.. figure:: images/partnerships_funding.jpg
     :width: 100 %
     :align: center
     :alt: diagram of programme funding with multiple implementing organisations
