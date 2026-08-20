@@ -8,15 +8,15 @@ These guidelines are for organisations that need to publish IATI data as a requi
 
    These guidelines have been endorsed for use by partners of the following funders:
 
+   * Sweden - International Development Cooperation Agency (Sida)
    * United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
 
 
-The funders listed below were also involved in developing the guidelines. This page will be updated once they have endorsed them for use.
+The funders listed below helped develop the guidelines, and this page will be updated once they've formally endorsed them:
 
 * Belgium - Ministry of Foreign Affairs
 * Denmark - Ministry of Foreign Affairs, Danida
 * Netherlands - Ministry of Foreign Affairs
-* Sweden - International Development Cooperation Agency (Sida)
 
 
 | 
