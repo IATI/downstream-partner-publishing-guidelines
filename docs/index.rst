@@ -12,7 +12,7 @@ These guidelines are for organisations that need to publish IATI data as a requi
    * United Kingdom - Foreign, Commonwealth & Development Office (FCDO)
 
 
-The funders listed below were also involved in developing the guidelines. This page will be updated once they have endorsed them for use.
+The funders listed below helped develop the guidelines, and this page will be updated once they've formally endorsed them:
 
 * Belgium - Ministry of Foreign Affairs
 * Denmark - Ministry of Foreign Affairs, Danida
